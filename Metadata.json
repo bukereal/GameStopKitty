@@ -1,0 +1,15 @@
+{
+  "name": "GameStopKitty",
+  "symbol": "GMEKitty",
+  "description": "GameStopKitty - Where fun meets finance!",
+  "website": "https://gamestopkitty.xyz/",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "YourSolanaWalletAddress",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "uri": ""
+}
